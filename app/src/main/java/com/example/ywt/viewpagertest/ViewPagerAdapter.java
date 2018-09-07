@@ -10,7 +10,6 @@ import android.widget.TextView;
 
 import com.example.ywt.viewpagertest.bean.Bean;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**

@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         list = new ArrayList<>();
         list.add(new Bean(R.mipmap.img_one, "标题一"));
         list.add(new Bean(R.mipmap.img_two, "标题二"));
-        list.add(new Bean(R.mipmap.img_one, "标题三"));
+        list.add(new Bean(R.mipmap.img_three, "标题三"));
 
         //设置Page间间距
         viewPager.setPageMargin(20);
